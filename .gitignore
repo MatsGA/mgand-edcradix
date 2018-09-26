@@ -1,6 +1,7 @@
 node_modules
-.iml
+*.iml
 npm-debug.log
 .vscode
 .DS_STORE
 reports/
+.idea
